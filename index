@@ -32,16 +32,8 @@
           "d": "S&P 500 Index"
         },
         {
-          "s": "FOREXCOM:NSXUSD",
-          "d": "US 100 Cash CFD"
-        },
-        {
           "s": "FOREXCOM:DJI",
           "d": "Dow Jones Industrial Average Index"
-        },
-        {
-          "s": "INDEX:NKY",
-          "d": "Japan 225"
         },
         {
           "s": "INDEX:DEU40",
